@@ -1,0 +1,12 @@
+services:
+  web:
+    build: .
+    container_name: tomato_seeds_app
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./instance:/app/instance
+    environment:
+      - SECRET_KEY=some-super-secret-key-tomato-seeds
+      - SQLITE_DISABLE_WAL=true
+    restart: unless-stopped

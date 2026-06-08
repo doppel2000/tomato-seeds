@@ -1,0 +1,330 @@
+[
+    {
+        "nom": "Ninon",
+        "couleur": "Rose",
+        "calibre": "Moyenne (200 à 400 g)",
+        "pays_origine": "Géorgie",
+        "description": "Cette variété rare de mi-saison produit des fruits légèrement ronds et aplatis aux pôles. Sa chair de bœuf est dense, juteuse et se distingue par une saveur douce avec peu d'acidité, ce qui la rend idéale pour être consommée fraîche en salade.",
+        "image": ""
+    },
+    {
+        "nom": "Rebel Starfighter Prime",
+        "couleur": "Rouge-pourpre à épaules noires (anthocyane)",
+        "calibre": "Moyenne à grosse (100 à 250 g)",
+        "pays_origine": "États-Unis",
+        "description": "Créée par Russ Crowe, cette variété est issue du croisement entre Xanadu Picasso et Reinhards Green Heart. Ses magnifiques fruits en forme de cœur arborent un motif complexe de zébrures vertes métalliques et d'épaules indigo foncées. Sa saveur est riche, profonde et sucrée.",
+        "image": ""
+    },
+    {
+        "nom": "Baby",
+        "couleur": "Rouge",
+        "calibre": "Petite (Tomate cerise, 15 à 20 g)",
+        "pays_origine": "Amérique du Sud",
+        "description": "Cette variété vigoureuse produit une profusion de petits fruits ronds réunis en grappes généreuses. Très appréciée pour l'apéritif, elle se caractérise par une saveur particulièrement douce et sucrée, se dégustant comme un bonbon.",
+        "image": ""
+    },
+    {
+        "nom": "Bonne Fée",
+        "couleur": "Rouge",
+        "calibre": "Grosse à très grosse (300 à 600 g)",
+        "pays_origine": "France",
+        "description": "Originaire de la région Centre-Val de Loire, c'est une variété ancienne et rare de type beefsteak. Les fruits sont fortement aplatis et côtelés en partie haute. Sa chair est très charnue, douce et dénuée d'acidité, offrant une saveur équilibrée et authentique.",
+        "image": ""
+    },
+    {
+        "nom": "Harvard Square",
+        "couleur": "Bigarrée (Rouge bordeaux strié de vert)",
+        "calibre": "Grosse (200 à 300 g)",
+        "pays_origine": "États-Unis",
+        "description": "Issue d'une mutation de la variété Green Copia, elle produit des fruits aplatis de type beefsteak. Sa chair marbrée possède une excellente saveur douce et aromatique, qui lui a valu de remporter le premier prix lors du TomatoFest de Bruxelles en 2014.",
+        "image": ""
+    },
+    {
+        "nom": "Léon noire",
+        "couleur": "Pourpre à épaules vert sombre",
+        "calibre": "Grosse (200 à 400 g)",
+        "pays_origine": "France",
+        "description": "Nommée en l'honneur de la personne ayant transmis ses graines, cette variété produit de beaux fruits de type beefsteak. Sa chair est très dense, sombre et juteuse, révélant une saveur riche, épicée et bien équilibrée.",
+        "image": ""
+    },
+    {
+        "nom": "Awesome Emma",
+        "couleur": "Jaune orangé avec des traces d'anthocyane (violet)",
+        "calibre": "Petite (Tomate cocktail, 2 à 3 cm de diamètre)",
+        "pays_origine": "Autriche",
+        "description": "Croisement récent de Stripes of Yore et Bianca stabilisé par Josef Obermoser et Ulli Klein. Cette tomate cocktail offre un contraste de couleurs saisissant et une saveur unique combinant à la perfection la douceur, l'acidité et des notes épicées.",
+        "image": ""
+    },
+    {
+        "nom": "Hippie Zebra",
+        "couleur": "Bicolore (Rose rayé de vert et de rouge)",
+        "calibre": "Moyenne (150 à 250 g)",
+        "pays_origine": "États-Unis (Ohio)",
+        "description": "Cette variété récente produit des fruits ronds à légèrement cordiformes aux épaules côtelées. Son esthétique originale s'accompagne d'une chair beurrée, charnue et d'un goût à la fois complexe et très doux.",
+        "image": ""
+    },
+    {
+        "nom": "Rebel Starfighter VT16",
+        "couleur": "Verte à épaules noires (anthocyane)",
+        "calibre": "Moyenne (150 à 250 g)",
+        "pays_origine": "États-Unis",
+        "description": "Sœur verte de la Rebel Starfighter Prime, elle est également issue des travaux de Russ Crowe. Les fruits sont en forme de cœur doté d'un nez pointu. Elle reste verte à maturité tout en devenant souple au toucher, et délivre un arôme fruité et rafraîchissant.",
+        "image": ""
+    },
+    {
+        "nom": "Lucky Tiger",
+        "couleur": "Verte striée de jaune et de rose",
+        "calibre": "Petite (Allongée, 20 à 30 g)",
+        "pays_origine": "États-Unis",
+        "description": "Développée par Fred Hempel (Artisan Seeds), cette tomate cocktail de forme oblongue présente une superbe robe zébrée. Sa saveur est réputée pour sa richesse, son acidité rafraîchissante et sa douceur fruitée.",
+        "image": ""
+    },
+    {
+        "nom": "Mille Fleurs",
+        "couleur": "Jaune orangé",
+        "calibre": "Petite (Tomate cerise, 15 à 20 g)",
+        "pays_origine": "Europe / États-Unis",
+        "description": "Une variété impressionnante de type 'multiflora' qui produit d'immenses grappes de fleurs pouvant donner jusqu'à une cinquantaine de petits fruits par bouquet. Les fruits sont ronds, rustiques et très sucrés.",
+        "image": ""
+    },
+    {
+        "nom": "Gargamel",
+        "couleur": "Rouge-orange strié de bleu violacé (anthocyane)",
+        "calibre": "Petite à moyenne (60 à 120 g)",
+        "pays_origine": "États-Unis",
+        "description": "Une variété récente et spectaculaire produisant des fruits allongés de type prune qui se terminent par une petite pointe. Sa peau est très sombre à cause de la forte concentration d'anthocyanes. La chair est ferme et offre une saveur très riche, sucrée et épicée.",
+        "image": ""
+    },
+    {
+        "nom": "Moya Jaune",
+        "couleur": "Jaune vif",
+        "calibre": "Grosse (300 à 600 g)",
+        "pays_origine": "France",
+        "description": "Version jaune de la célèbre variété Moya. Elle produit de grands fruits ronds et aplatis de type beefsteak. Sa chair est très charnue, dense et dégage un parfum doux et agréablement sucré.",
+        "image": ""
+    },
+    {
+        "nom": "Kas 21/1",
+        "couleur": "Rose avec des épaules bleu-indigo (anthocyane)",
+        "calibre": "Moyenne (150 à 250 g)",
+        "pays_origine": "Pologne",
+        "description": "Création de la sélectionneuse polonaise Kasencja, issue d'un croisement entre P20 et Bawole Serdtse. Ses fruits sont de type cordiforme (en cœur), très charnus, contenant très peu de graines et de jus, avec un arôme sucré et prononcé.",
+        "image": ""
+    },
+    {
+        "nom": "Shokoladnaya Zebra",
+        "couleur": "Marron-chocolat strié de vert",
+        "calibre": "Grosse (150 à 300 g)",
+        "pays_origine": "Russie (Sibérie)",
+        "description": "Variété d'origine sibérienne qui produit des fruits aplatis et côtelés. Elle est appréciée pour sa peau originale aux teintes sombres et sa chair fondante, douce et très parfumée.",
+        "image": ""
+    },
+    {
+        "nom": "Enormous Plum",
+        "couleur": "Rouge",
+        "calibre": "Grosse (200 à 500 g)",
+        "pays_origine": "États-Unis",
+        "description": "Introduite dans les années 1970, cette variété produit d'énormes fruits de forme oblongue, semblables à de grosses prunes ou des poires. Sa chair est très dense, sèche (peu de jus) et idéale pour la confection de sauces, de coulis ou de pâtes de tomate.",
+        "image": ""
+    },
+    {
+        "nom": "Green Copia",
+        "couleur": "Verte striée de jaune et de rose",
+        "calibre": "Moyenne à grosse (150 à 300 g)",
+        "pays_origine": "États-Unis",
+        "description": "Une variante de la tomate Copia. Elle produit de magnifiques beefsteaks dont la peau est verte et dorée à maturité, avec de légères nuances rosées. Sa chair est juteuse et sa saveur est délicieusement fruitée.",
+        "image": ""
+    },
+    {
+        "nom": "Sart Roloise",
+        "couleur": "Blanc crème à jaune pâle, aux épaules bleu-violet (anthocyane)",
+        "calibre": "Moyenne à grosse (150 à 350 g)",
+        "pays_origine": "Belgique",
+        "description": "Création belge de Roland Boulanger issue du croisement entre White Wonder et Baby Blue. C'est un grand classique parmi les tomates de collection, réputé pour sa chair de bœuf douce, sucrée avec des arômes exotiques d'ananas et d'agrumes.",
+        "image": ""
+    },
+    {
+        "nom": "Verte de Huy",
+        "couleur": "Vert-jaune virant à l'ambre à maturité",
+        "calibre": "Petite à moyenne (80 à 150 g)",
+        "pays_origine": "Belgique",
+        "description": "Originaire de la région de Huy en Wallonie, cette variété ancienne et rare produit des fruits ronds et lisses. Elle offre un goût aromatique unique, très doux et sucré une fois bien mûre, rivalisant avec la Green Zebra.",
+        "image": ""
+    },
+    {
+        "nom": "Potager de Vilvorde",
+        "couleur": "Rouge vif",
+        "calibre": "Moyenne (100 à 200 g)",
+        "pays_origine": "Belgique",
+        "description": "Développée vers 1930 à l'école d'horticulture de Vilvorde, son nom rend hommage au premier jardinier à avoir cultivé des tomates sous serre en Belgique (en 1848). C'est une variété très productive et résistante, produisant des grappes de fruits ronds et réguliers, à la saveur fruitée et sucrée.",
+        "image": ""
+    },
+    {
+        "nom": "Téton de Venus",
+        "couleur": "Rouge",
+        "calibre": "Moyenne (150 à 300 g)",
+        "pays_origine": "Italie / France",
+        "description": "Variété ancienne remarquable par ses fruits cordiformes se terminant par une pointe prononcée en forme de téton. Sa chair est ferme, dense, contenant très peu de graines, parfaite pour la préparation de salades ou de coulis.",
+        "image": ""
+    },
+    {
+        "nom": "Bronze de Belgique",
+        "couleur": "Jaune or / Ambré",
+        "calibre": "Moyenne (100 à 150 g)",
+        "pays_origine": "Belgique",
+        "description": "Aussi appelée 'Petite fille Blonde', cette variété ancienne produit une myriade de tomates d'un beau jaune doré. Le fruit possède un centre bien charnu et une texture juteuse, offrant une saveur douce et bien équilibrée.",
+        "image": ""
+    },
+    {
+        "nom": "Brandy Wine",
+        "couleur": "Rose",
+        "calibre": "Grosse à très grosse (300 à 500 g)",
+        "pays_origine": "États-Unis (Héritage Amish)",
+        "description": "Un des plus grands monuments parmi les tomates anciennes. Ses fruits de type beefsteak, portés par un feuillage de pomme de terre, sont reconnus mondialement pour leur chair de bœuf dense, onctueuse et leur goût exceptionnel et riche.",
+        "image": ""
+    },
+    {
+        "nom": "Ananas Bleu",
+        "couleur": "Jaune-orangé avec des épaules bleu-indigo (anthocyane)",
+        "calibre": "Moyenne à grosse (150 à 250 g)",
+        "pays_origine": "Belgique",
+        "description": "Création du sélectionneur belge José Antoine (Ambiorix). Elle associe la beauté des nuances bleutées de l'anthocyane et l'intérieur bicolore typique de la tomate Ananas. Sa chair est douce, juteuse et très parfumée.",
+        "image": ""
+    },
+    {
+        "nom": "Marmande",
+        "couleur": "Rouge",
+        "calibre": "Grosse (150 à 300 g)",
+        "pays_origine": "France",
+        "description": "Grande variété traditionnelle française originaire du Lot-et-Garonne. Les fruits sont ronds, aplatis et légèrement côtelés. Elle est précoce et rustique, avec une chair ferme et légèrement parfumée, très populaire en cuisine.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Tomates_Marmande.jpg"
+    },
+    {
+        "nom": "Merveille des Serres",
+        "couleur": "Rouge",
+        "calibre": "Moyenne (100 à 150 g)",
+        "pays_origine": "Belgique",
+        "description": "Ancienne variété belge originaire de la région liégeoise, très productive. Elle produit des grappes de fruits ronds et réguliers. Sa saveur est sucrée avec une pointe d'acidité rafraîchissante, parfaite pour une culture sous abri.",
+        "image": ""
+    },
+    {
+        "nom": "Yellow Belgian",
+        "couleur": "Jaune-orangé intense",
+        "calibre": "Grosse (200 à 450 g)",
+        "pays_origine": "Belgique",
+        "description": "Très ancienne variété régionale belge vigoureuse. Ses fruits de type beefsteak offrent une chair pleine, juteuse et particulièrement sucrée, réputée pour sa très bonne qualité gustative.",
+        "image": ""
+    },
+    {
+        "nom": "Lithium Sunset",
+        "couleur": "Jaune-orange striée de rouge",
+        "calibre": "Grosse (180 à 300 g)",
+        "pays_origine": "États-Unis",
+        "description": "Créée par Fred Hempel, cette variété de beefsteak produit des fruits charnus aux magnifiques zébrures. Sa chair est marbrée de rose et de jaune, très juteuse et offre une saveur douce, dénuée d'acidité.",
+        "image": ""
+    },
+    {
+        "nom": "Floragold basket",
+        "couleur": "Jaune tournant à l'orange",
+        "calibre": "Petite (Tomate cerise, 15 à 20 g)",
+        "pays_origine": "États-Unis",
+        "description": "Variété développée par l'Université de Floride en 1988. C'est une tomate 'micro-dwarf' (micro-naine) dont le plant ne dépasse pas 25 à 30 cm de hauteur, ce qui la rend idéale pour la culture en pots ou en suspensions. Elle a un goût étonnamment prononcé pour une variété jaune.",
+        "image": ""
+    },
+    {
+        "nom": "Albo Verte",
+        "couleur": "Verte marbrée de bleu-noir (anthocyane)",
+        "calibre": "Petite à moyenne (40 à 120 g)",
+        "pays_origine": "Belgique",
+        "description": "Un croisement récent entre OSU P20 et Green Zebra réalisé par José Antoine. Ses fruits débutent vert clair et se parent d'épaules indigo avant de mûrir vers un vert-jaune ambré. La chair verte est très ferme, juteuse et très sucrée.",
+        "image": ""
+    },
+    {
+        "nom": "Stellato di Bellinzona",
+        "couleur": "Bicolore (Jaune-orangé marbré de rose)",
+        "calibre": "Grosse (250 à 500 g)",
+        "pays_origine": "Suisse (Canton du Tessin)",
+        "description": "Son nom se traduit par 'L'Étoile de Bellinzona'. Elle produit des fruits de type beefsteak côtelés. À la coupe, sa chair dessine un magnifique motif en étoile rose au centre, révélant une saveur très douce, sucrée et riche.",
+        "image": ""
+    },
+    {
+        "nom": "Petit Coeur de Boeuf",
+        "couleur": "Rouge",
+        "calibre": "Moyenne (100 à 150 g)",
+        "pays_origine": "France / Italie",
+        "description": "Version miniature de la célèbre tomate Cœur de Bœuf. Elle produit des fruits réguliers en forme de cœur. Sa chair est très charnue, contient peu de graines et de jus, et possède une excellente saveur douce.",
+        "image": ""
+    },
+    {
+        "nom": "Corazon d’Aiguilla",
+        "couleur": "Rose-rougeâtre",
+        "calibre": "Grosse (300 à 500 g)",
+        "pays_origine": "Russie (Sibérie)",
+        "description": "Son nom espagnol traduit la variété sibérienne 'Orlinyy Klyuv' (Bec d'Aigle). C'est une tomate cordiforme à la robe rose foncé. Sa chair est douce, juteuse et très charnue, idéale pour consommer crue ou en salade.",
+        "image": ""
+    },
+    {
+        "nom": "Wolverine",
+        "couleur": "Jaune avec des épaules sombres violettes (anthocyane)",
+        "calibre": "Moyenne (100 à 250 g)",
+        "pays_origine": "États-Unis",
+        "description": "Issue d'un croisement entre OSU P20 et Great White. Ses fruits ronds à aplatis arborent un look 'sauvage'. Sa chair est juteuse, offrant une saveur fruitée remarquable et rafraîchissante, équilibrée par une légère pointe d'acidité.",
+        "image": ""
+    },
+    {
+        "nom": "Pera d’Abruzzo",
+        "couleur": "Rouge",
+        "calibre": "Grosse (200 à 400 g)",
+        "pays_origine": "Italie (Région des Abruzzes)",
+        "description": "Variété traditionnelle italienne en forme de poire ou de bourse, fortement côtelée. Sa chair est extrêmement dense et charnue, avec très peu de graines, ce qui en fait l'une des meilleures variétés pour confectionner les sauces et coulis italiens traditionnels.",
+        "image": ""
+    },
+    {
+        "nom": "Pridmarsky Konus",
+        "couleur": "Rose framboise",
+        "calibre": "Grosse (250 à 600 g)",
+        "pays_origine": "Russie",
+        "description": "Variété héritage préservée par le jardinier moscovite Alesandr Mozerov, dont le nom signifie 'Cône d'Amour'. Elle produit des fruits cordiformes très prononcés en forme de cône. Sa chair est pleine, douce et parfumée, rappelant le goût authentique des tomates anciennes.",
+        "image": ""
+    },
+    {
+        "nom": "Belle du Collège",
+        "couleur": "Bordeaux-rouge avec des stries vert bronze",
+        "calibre": "Moyenne (150 à 300 g)",
+        "pays_origine": "États-Unis",
+        "description": "Sélectionnée par Tom Wagner à partir de la Berkeley Tie Dye. Ses fruits bicolores ronds et légèrement aplatis offrent une chair sombre et tricolore particulièrement savoureuse, sucrée et complexe.",
+        "image": ""
+    },
+    {
+        "nom": "Nana Rouge",
+        "couleur": "Rose-rouge avec des épaules sombres (anthocyane)",
+        "calibre": "Moyenne (100 à 200 g)",
+        "pays_origine": "Belgique",
+        "description": "Une sélection issue des travaux de José Antoine (Ambiorix) en Belgique. C'est une de ses créations de la lignée de l'Ananas Bleu. Elle produit des fruits de taille intermédiaire à la peau rose pourprée et aux épaules foncées, avec une chair douce et fruitée.",
+        "image": ""
+    },
+    {
+        "nom": "Cour de Boeuf Bleue",
+        "couleur": "Rouge-rose à peau bleu-indigo (anthocyane)",
+        "calibre": "Grosse (200 à 400 g)",
+        "pays_origine": "États-Unis / Europe",
+        "description": "Spectaculaire variété de type Cœur de Bœuf dont la robe s'obscurcit sous l'effet du soleil grâce aux anthocyanes. Sa chair est très charnue, douce et contient très peu de graines, idéale pour préparer des carpaccios ou des tomates farcies.",
+        "image": ""
+    },
+    {
+        "nom": "roumaine rouge Joseph",
+        "couleur": "Rouge",
+        "calibre": "Grosse (250 à 500 g)",
+        "pays_origine": "Roumanie",
+        "description": "Variété de type beefsteak issue de lignées paysannes traditionnelles roumaines et préservée dans les collections d'amateurs. Elle offre des fruits généreux, ronds et côtelés avec une chair savoureuse et le vrai goût des tomates anciennes.",
+        "image": ""
+    },
+    {
+        "nom": "roumaine jaune Joseph",
+        "couleur": "Jaune-orangé intense",
+        "calibre": "Grosse (200 à 400 g)",
+        "pays_origine": "Roumanie",
+        "description": "Version jaune d'or de cet héritage familial roumain. Elle produit de grands fruits charnus et légèrement aplatis de type beefsteak. Sa saveur est très douce, fruitée, presque dénuée d'acidité.",
+        "image": ""
+    }
+]

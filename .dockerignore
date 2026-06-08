@@ -1,0 +1,9 @@
+.git
+.venv
+.agents
+.gemini
+__pycache__
+*.pyc
+# instance/
+migrations/
+artifacts/
